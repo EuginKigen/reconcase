@@ -3,12 +3,12 @@
 The IP Reconnaissance Script is a Bash utility that performs basic reconnaissance on an IP address. 
 It uses Nmap to identify open ports and services and, if an open HTTP port is found, runs WhatWeb to gather additional information about the web server.
 
-#  Prerequisites
+  Prerequisites
 
     Nmap: Ensure that Nmap is installed on your system and accessible from the command line.
     WhatWeb: Ensure that WhatWeb is installed on your system and accessible from the command line.
 
- # Usage
+  Usage
 
    1 Clone the repository or download the recon.sh file to your local machine.
 
